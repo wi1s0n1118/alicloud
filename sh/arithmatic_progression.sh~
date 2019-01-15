@@ -5,7 +5,7 @@
 # * Create time   : 2019-01-15 23:49
 # * Last modified : 2019-01-15 23:49
 # * Filename      : arithmatic_progression.sh
-# * Description   : 求公差为1的前n项和 
+# * Description   : 
 # **********************************************************
 
 read -t 30 -p "Please input your first number:" num1
